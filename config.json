@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionupdate",
+        "uuid": 5633440,
+        "checksum": "fp0o1i"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
